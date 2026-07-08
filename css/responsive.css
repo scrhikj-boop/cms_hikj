@@ -1,0 +1,35 @@
+@media(max-width:768px){
+
+.container{
+
+padding:40px 25px;
+
+}
+
+.logo{
+
+width:70px;
+
+}
+
+.hotel-name{
+
+font-size:26px;
+
+}
+
+h1{
+
+font-size:42px;
+
+letter-spacing:2px;
+
+}
+
+.category-list a{
+
+font-size:20px;
+
+}
+
+}
